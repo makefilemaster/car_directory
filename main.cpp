@@ -328,13 +328,13 @@ class switcher {
 void printMenu() {
 	cout << "|----------------------------------------------------|" << endl;
 	cout << "|        You can use the following commands:  	     |" << endl;
-	cout << "|       new   - create new list with three car       |" << endl;
+	cout << "|       new   - add 3 car into the list              |" << endl;
 	cout << "|       open  - open default_directory and load list |" << endl;
 	cout << "|       print - print all list of car                |" << endl;
-	cout << "|       add   - for adding new car in list           |" << endl;
+	cout << "|       add   - for manual adding new car in list    |" << endl;
 	cout << "|       del   - for delete car from list             |" << endl;
 	cout << "|       edit  - for edit car from list               |" << endl;
-	cout << "|       exit  - exit wtih saving current list        |" << endl;
+	cout << "|       exit  - exit with saving current list        |" << endl;
 	cout << "|----------------------------------------------------|" << endl;
 }
 
